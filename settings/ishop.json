@@ -1,0 +1,23 @@
+{
+    "ishop": [{
+        "price": 500,
+        "object": "Личная роль",
+        "time": "1d"
+    }, {
+        "price": 1000,
+        "object": "Личная роль",
+        "time": "3d"
+    }, {
+        "price": 2000,
+        "object": "Личная роль",
+        "time": "7d"
+    }, {
+        "price": 1500,
+        "object": "Elite статус",
+        "time": "7d"
+    }, {
+        "price": 2000,
+        "object": "Личный канал",
+        "time": "7d"
+    }]
+}
